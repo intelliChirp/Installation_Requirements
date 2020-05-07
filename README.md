@@ -1,7 +1,7 @@
 # Installation_Requirements
 requirements.txt - Use this to install all the packages needed to run SNAW
 
-## How to install needed packages for SNAW Web, Snaw Offline, and SNAW Neural Network
+## How to Install Needed Packages for SNAW Web, Snaw Offline, and SNAW Neural Network
 
 Setting Up a Python Virtual Environment with all Needed Python Packages
 Note: Anaconda is not compatible for this prerequisite.
